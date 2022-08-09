@@ -18,3 +18,4 @@
 2. 对数据预处理时使用的停用词表存放在stopword.txt中
 3. 可根据个人选择更改生成LDA模型的参数
 4. 最后LDA模型的可视化会存入LDA_Visualization.html，可以通过live server等插件在浏览器中打开
+5. 相关分析会存入excel文件中
